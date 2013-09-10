@@ -1,2 +1,3 @@
 // I am a testline. I will rule the world.
-// I am another testline. I won't rule teh lasast edit.
+// I am another testline. I won't rule the first edit.
+// I am the third testline. I'll fix the second line slightly.
